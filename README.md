@@ -13,11 +13,11 @@
 - ⚡️ A competitve C++ programmer.
 - 🚀 Data Science Enthusiast
 
-<p><img align="center" alt="Sameer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=msameerfarooq&show_icons=true&hide_border=true" /></p>
+<p><img align="center" alt="Muhammad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AGOT-00&show_icons=true&hide_border=true" /></p>
 </br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msameerfarooq&layout=compact&theme=radical" alt="Most Used Languages" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGOT-00&layout=compact&theme=radical" alt="Most Used Languages" /></p>
 </br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msameerfarooq" alt="Github Streak Stats"></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AGOT-00" alt="Github Streak Stats"></p>
 
 ### Languages & Tools: 
 <img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
