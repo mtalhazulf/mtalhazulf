@@ -2,7 +2,7 @@
 <p align="left">         
                           
    <a href="https://github.com/AGOT-00/">
-    <img src="https://komarev.com/ghpvc/?username=msameerfarooq" alt="page views" />
+    <img src="https://komarev.com/ghpvc/?username=agot-00" alt="page views" />
   </a>
   <a href="https://github.com/AGOT-00">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/AGOT-00?color=green&logo=github">
