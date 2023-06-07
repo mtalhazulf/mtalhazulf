@@ -32,3 +32,33 @@
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 </p><br>
+
+# Hi there 👋, I'm Muhammad Talha Zulfiqar! 
+
+![Profile Views](https://komarev.com/ghpvc/?username=AGOT-00)
+
+I am currently studying BS in Computer Science at FAST NUCES Lahore and working from home. I am a competitive C++ programmer and a data science enthusiast. I have a passion for learning and sharing my knowledge with others.
+
+## 🧰 Languages & Tools
+
+```C++``` ```C``` ```SQL``` ```Java``` ```Python``` ```HTML5``` ```CSS3``` ```JavaScript``` ```Git``` ```GitHub``` ```Visual Studio Code```
+
+## 📚 Popular Repositories
+
+- [University_Projects](https://github.com/AGOT-00/University_Projects)
+- [interview-techdev-guide](https://github.com/AGOT-00/interview-techdev-guide)
+- [SJ_CMS](https://github.com/AGOT-00/SJ_CMS)
+- [CMH_Lahore](https://github.com/AGOT-00/CMH_Lahore)
+- [CInstaller](https://github.com/AGOT-00/CInstaller)
+
+## 📈 GitHub Stats
+
+![AGOT-00's GitHub stats](https://github-readme-stats.vercel.app/api?username=AGOT-00&show_icons=true&theme=tokyonight)
+
+In the past year, I've made 70 contributions to various projects. I'm always looking for new opportunities to grow and contribute to interesting projects.
+
+## Connect with me
+
+- Website: [sec2ad.tech](https://sec2ad.tech)
+- Location: Lahore
+- GitHub: [AGOT-00](https://github.com/AGOT-00)
