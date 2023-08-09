@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Talha Zulfiqar</h1>
 <p align="left">         
                           
-   <a href="https://github.com/AGOT-00/">
-    <img src="https://komarev.com/ghpvc/?username=agot-00" alt="page views" />
+   <a href="https://github.com/mtalhazulf/">
+    <img src="https://komarev.com/ghpvc/?username=mtalhazulf" alt="page views" />
   </a>
-  <a href="https://github.com/AGOT-00">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/AGOT-00?color=green&logo=github">
+  <a href="https://github.com/mtalhazulf">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/mtalhazulf?color=green&logo=github">
   </a>
   
 #### 🤔 Who Am I!?
@@ -13,11 +13,11 @@
 - ⚡️ A competitve C++ programmer.
 - 🚀 Data Science Enthusiast
 
-<p><img align="center" alt="Muhammad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AGOT-00&show_icons=true&hide_border=true" /></p>
+<p><img align="center" alt="Muhammad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mtalhazulf&show_icons=true&hide_border=true" /></p>
 </br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGOT-00&layout=compact&theme=radical" alt="Most Used Languages" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtalhazulf&layout=compact&theme=radical" alt="Most Used Languages" /></p>
 </br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AGOT-00" alt="Github Streak Stats"></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtalhazulf" alt="Github Streak Stats"></p>
 
 ### Languages & Tools: 
 <img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
@@ -35,7 +35,7 @@
 
 # Hi there 👋, I'm Muhammad Talha Zulfiqar! 
 
-![Profile Views](https://komarev.com/ghpvc/?username=AGOT-00)
+![Profile Views](https://komarev.com/ghpvc/?username=mtalhazulf)
 
 I am currently studying BS in Computer Science at FAST NUCES Lahore and working from home. I am a competitive C++ programmer and a data science enthusiast. I have a passion for learning and sharing my knowledge with others.
 
@@ -45,15 +45,15 @@ I am currently studying BS in Computer Science at FAST NUCES Lahore and working 
 
 ## 📚 Popular Repositories
 
-- [University_Projects](https://github.com/AGOT-00/University_Projects)
-- [interview-techdev-guide](https://github.com/AGOT-00/interview-techdev-guide)
-- [SJ_CMS](https://github.com/AGOT-00/SJ_CMS)
-- [CMH_Lahore](https://github.com/AGOT-00/CMH_Lahore)
-- [CInstaller](https://github.com/AGOT-00/CInstaller)
+- [University_Projects](https://github.com/mtalhazulf/University_Projects)
+- [interview-techdev-guide](https://github.com/mtalhazulf/interview-techdev-guide)
+- [SJ_CMS](https://github.com/mtalhazulf/SJ_CMS)
+- [CMH_Lahore](https://github.com/mtalhazulf/CMH_Lahore)
+- [CInstaller](https://github.com/mtalhazulf/CInstaller)
 
 ## 📈 GitHub Stats
 
-![AGOT-00's GitHub stats](https://github-readme-stats.vercel.app/api?username=AGOT-00&show_icons=true&theme=tokyonight)
+![mtalhazulf's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtalhazulf&show_icons=true&theme=tokyonight)
 
 In the past year, I've made 70 contributions to various projects. I'm always looking for new opportunities to grow and contribute to interesting projects.
 
@@ -61,4 +61,4 @@ In the past year, I've made 70 contributions to various projects. I'm always loo
 
 - Website: [sec2ad.tech](https://sec2ad.tech)
 - Location: Lahore
-- GitHub: [AGOT-00](https://github.com/AGOT-00)
+- GitHub: [mtalhazulf](https://github.com/mtalhazulf)
