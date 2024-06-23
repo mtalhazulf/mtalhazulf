@@ -9,7 +9,7 @@
   </a>
   
 #### 🤔 Who Am I!?
-- 🏫 Studying BS(Computer Science) at FAST NUCES Lahore .
+- 🏫 Studied BS(Computer Science) at FAST NUCES Lahore .
 - ⚡️ A competitve C++ programmer.
 - 🚀 Data Science Enthusiast
 
