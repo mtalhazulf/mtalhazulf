@@ -67,7 +67,7 @@ const expertise = {
 
 ### 🌟 Key Achievements
 - 🏗️ Designed & implemented enterprise-level distributed systems
-- 🚀 Led digital transformation initiatives for Fortune 500 clients
+- 🚀 Led digital transformation initiatives for Fortune 20+ clients
 - 📈 Scaled systems to handle 1M+ daily active users
 - 💡 Pioneered AI/ML integration in legacy systems
 - 🛠️ Established robust DevSecOps practices
@@ -91,13 +91,6 @@ const expertise = {
 - 🔐 Zero-Trust Security Architectures
 - 📊 Real-time Analytics Platforms
 - 🤖 AI-Powered Recommendation Systems
-
-### 📚 Featured Repositories
-- [System_Design_Patterns](https://github.com/mtalhazulf/System_Design_Patterns)
-- [University_Projects](https://github.com/mtalhazulf/University_Projects)
-- [interview-techdev-guide](https://github.com/mtalhazulf/interview-techdev-guide)
-- [SJ_CMS](https://github.com/mtalhazulf/SJ_CMS)
-- [CMH_Lahore](https://github.com/mtalhazulf/CMH_Lahore)
 
 ### 📫 Connect & Collaborate
 - 🌐 Website: [sec2ad.tech](https://sec2ad.tech)
