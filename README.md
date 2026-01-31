@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Talha Zulfiqar</h1>
-<h3 align="center">Chief Technology Officer | Computer Scientist | Systems Architect</h3>
+<h3 align="center">CEO @ ObsidianCode | Ex CTO@Texagon | Computer Scientist | Systems Architect</h3>
 
 <p align="center">
   <a href="https://github.com/mtalhazulf/">
