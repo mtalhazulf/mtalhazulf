@@ -32,9 +32,9 @@
 
 ### About
 
-I build, scale, and automate software products — from early-stage MVPs to enterprise systems. 4 years of professional experience. 30+ production applications shipped across HealthTech, FinTech, EdTech, and SaaS for clients in the US, UK, and Europe. 98% client satisfaction rate.
+I build, scale, and automate software products  from early-stage MVPs to enterprise systems. 4 years of professional experience. 30+ production applications shipped across HealthTech, FinTech, EdTech, and SaaS for clients in the US, UK, and Europe. 98% client satisfaction rate.
 
-I care about **scalable architecture from day one** — not duct-tape solutions that need rebuilding six months later.
+I care about **scalable architecture from day one** not duct-tape solutions that need rebuilding six months later.
 
 ---
 
@@ -128,17 +128,6 @@ Clean Architecture · Hexagonal Architecture · RAG Pipelines · Autonomous AI A
   <a href="https://github.com/mtalhazulf/interview-techdev-guide">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mtalhazulf&repo=interview-techdev-guide&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
   </a>
-</p>
-
----
-
-### Organizations
-
-<p align="center">
-  <a href="https://github.com/obsidian-code-io"><img src="https://img.shields.io/badge/Obsidian%20Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/BuildAI-ERC"><img src="https://img.shields.io/badge/BuildAI-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/bouncy-square"><img src="https://img.shields.io/badge/Bouncy%20Square-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/lonesyteRepo"><img src="https://img.shields.io/badge/Lonesyte-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
