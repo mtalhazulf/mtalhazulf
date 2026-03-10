@@ -1,103 +1,90 @@
-<h1 align="center">Hi 👋, I'm Muhammad Talha Zulfiqar</h1>
-<h3 align="center">CEO @ ObsidianCode | Ex CTO @ Texagon | Computer Scientist | Systems Architect</h3>
+<h1 align="center">Muhammad Talha Zulfiqar</h1>
+<h3 align="center">Senior Software Engineer & Architect · CEO @ Obsidian Code · Ex-CTO @ Texagon</h3>
 
 <p align="center">
-  <a href="https://github.com/mtalhazulf/">
-    <img src="https://komarev.com/ghpvc/?username=mtalhazulf" alt="page views" />
+  <a href="https://github.com/mtalhazulf?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/mtalhazulf?style=for-the-badge&logo=github&logoColor=white&color=0d1117">
   </a>
-  <a href="https://github.com/mtalhazulf">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/mtalhazulf?color=green&logo=github">
+  <a href="https://github.com/mtalhazulf?tab=repositories">
+    <img alt="GitHub repos" src="https://img.shields.io/badge/Repos-123-0d1117?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=mtalhazulf">
+    <img src="https://komarev.com/ghpvc/?username=mtalhazulf&style=for-the-badge&color=0d1117" alt="Profile Views" />
   </a>
 </p>
 
-### 🎯 Professional Summary
-As a Computer Scientist and CTO, I specialize in:
-- 🏗️ System Architecture & Design
-- 🔬 Research & Development
-- 🎨 Design Patterns & Best Practices
-- 🚀 Scalable Enterprise Solutions
-- 💡 Innovation & Technology Strategy
-- 👥 Technical Leadership (50+ Team)
-
-### 🛠️ Technology Arsenal
-
-#### Languages
-```python
-Languages = [
-    "C++", "C", "Python", "JavaScript", "TypeScript", 
-    "Java", "C#", "Go", "Rust", "PHP", "Ruby"
-]
-```
-
-#### Frameworks & Technologies
-```typescript
-const expertise = {
-    frontend: [
-        "React.js", "Next.js", "Vue.js", "Angular",
-        "Tailwind CSS", "Material-UI", "Bootstrap"
-    ],
-    backend: [
-        "Django", "Flask", "FastAPI",        // Python
-        "Node.js", "NestJS", "Express",      // JavaScript
-        ".NET Framework", ".NET Core",        // C#
-        "Laravel", "Symfony"                  // PHP
-    ],
-    database: [
-        "PostgreSQL", "MongoDB", "MySQL",
-        "Redis", "Elasticsearch", "Supabase",
-        "Prisma", "TypeORM"
-    ],
-    cloud: [
-        "AWS", "Azure", "GCP",
-        "Docker", "Kubernetes", "Terraform"
-    ],
-    architecture: [
-        "Microservices", "Event-Driven",
-        "Domain-Driven Design", "CQRS",
-        "Clean Architecture", "Hexagonal"
-    ]
-}
-```
-
-### 🎓 Academic Background
-- 📚 BS Computer Science - FAST NUCES Lahore
-- 🏆 Competitive Programming Background
-- 📊 Data Science Research
-- 🧬 Machine Learning Specialization
-
-### 🌟 Key Achievements
-- 🏗️ Designed & implemented enterprise-level distributed systems
-- 🚀 Led digital transformation initiatives for Fortune 20+ clients
-- 📈 Scaled systems to handle 1M+ daily active users
-- 💡 Pioneered AI/ML integration in legacy systems
-- 🛠️ Established robust DevSecOps practices
-- 📊 Reduced system latency by 70% through architecture optimization
-
-### 📈 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mtalhazulf&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <a href="https://obsidiancode.io">obsidiancode.io</a> · 
+  <a href="https://linkedin.com/in/mtalhazulf">LinkedIn</a> · 
+  <a href="mailto:hello@obsidiancode.io">hello@obsidiancode.io</a>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtalhazulf&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtalhazulf" alt="GitHub Streak" />
-</p>
-
-### 🏗️ System Design Portfolio
-- 🎯 High-Performance Trading Systems
-- 🏥 Healthcare Management Platforms
-- 🌐 Distributed Content Delivery Networks
-- 🔐 Zero-Trust Security Architectures
-- 📊 Real-time Analytics Platforms
-- 🤖 AI-Powered Recommendation Systems
-
-### 📫 Connect & Collaborate
-- 🌐 Website: [sec2ad.tech](https://sec2ad.tech)
-- 📍 Location: Lahore, Pakistan
-- 💼 LinkedIn: [Muhammad Talha](https://linkedin.com/in/muhammadtalha)
-- 🐦 Twitter: [@mtalhatech](https://twitter.com/mtalhatech)
 
 ---
 
-> "Architecting tomorrow's technology, today. Where computer science meets enterprise solutions."
+### About
+
+I build, scale, and automate software products — from early-stage MVPs to enterprise systems handling millions of users. 4 years of professional experience shipping 30+ production applications across HealthTech, FinTech, EdTech, and SaaS for clients in the US, UK, and Europe.
+
+I care about **scalable architecture from day one**, not duct-tape solutions that need rebuilding six months later.
+
+---
+
+### What I Work With
+
+```typescript
+const stack = {
+  languages:    ["TypeScript", "Python", "JavaScript", "Go", "C++", "C#"],
+  frontend:     ["Next.js", "React", "Vue.js", "Tailwind CSS", "React Native"],
+  backend:      ["NestJS", "FastAPI", "Express", "Django", ".NET Core"],
+  databases:    ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch", "Supabase"],
+  cloud:        ["AWS", "Azure", "GCP", "Docker", "Kubernetes", "Terraform"],
+  ai_ml:        ["RAG Pipelines", "LangChain", "OpenAI", "Vector DBs", "Autonomous Agents"],
+  architecture: ["Microservices", "Event-Driven", "DDD", "CQRS", "Clean Architecture"]
+};
+```
+
+---
+
+### Highlights
+
+**Servizio Salute** — Architected a multilingual telemedicine platform (10+ languages) for the Italian healthcare market. 5,000+ monthly consultations. AI-powered symptom assessment with 88% diagnostic accuracy. Fully GDPR-compliant.
+
+**AI Agent Infrastructure** — Built and deployed RAG-powered agents across WhatsApp, Telegram, Instagram, and Facebook. Designed retrieval pipelines that reduced hallucinations and achieved 85% autonomous query resolution.
+
+**RAG Toolkit** *(Open Source)* — A framework for experimenting with text chunking strategies and retrieval-augmented generation pipelines. Multiple chunking methods, embedding visualization, and real-time analysis. → [Live Demo](https://lnkd.in/dai8kX5P) · [Repository](https://lnkd.in/dAkmTX2p)
+
+**Scale & Leadership** — Led cross-functional engineering teams of 30+ people. Built 50+ AI-powered tools and SaaS products. 98% client satisfaction rate across all freelance engagements.
+
+---
+
+### GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mtalhazulf&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtalhazulf&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtalhazulf&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+</p>
+
+---
+
+### System Design Experience
+
+`High-Performance Trading Systems` · `Healthcare Management Platforms` · `Distributed Content Delivery Networks` · `Zero-Trust Security Architectures` · `Real-time Analytics Platforms` · `AI-Powered Recommendation Systems`
+
+---
+
+### Education
+
+**BS Computer Science** — FAST NUCES, Lahore *(2020–2024)*
+
+---
+
+<p align="center">
+  <i>"Great software isn't about code — it's about solving the right problem, fast."</i>
+</p>
