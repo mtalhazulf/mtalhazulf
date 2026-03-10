@@ -32,9 +32,9 @@
 
 ### About
 
-I build, scale, and automate software products  from early-stage MVPs to enterprise systems. 4 years of professional experience. 30+ production applications shipped across HealthTech, FinTech, EdTech, and SaaS for clients in the US, UK, and Europe. 98% client satisfaction rate.
+I build, scale, and automate software products — from early-stage MVPs to enterprise systems. 4 years of professional experience. 30+ production applications shipped across HealthTech, FinTech, EdTech, and SaaS for clients in the US, UK, and Europe. 98% client satisfaction rate.
 
-I care about **scalable architecture from day one** not duct-tape solutions that need rebuilding six months later.
+I care about **scalable architecture from day one** — not duct-tape solutions that need rebuilding six months later.
 
 ---
 
@@ -96,7 +96,7 @@ Clean Architecture · Hexagonal Architecture · RAG Pipelines · Autonomous AI A
 ### GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mtalhazulf&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mtalhazulf&theme=algolia&no-frame=true&no-bg=true&column=-1&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -104,12 +104,12 @@ Clean Architecture · Hexagonal Architecture · RAG Pipelines · Autonomous AI A
 ### GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mtalhazulf&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mtalhazulf&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mtalhazulf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mtalhazulf&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtalhazulf&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtalhazulf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
 </p>
 
 <!-- Activity Graph -->
@@ -119,15 +119,13 @@ Clean Architecture · Hexagonal Architecture · RAG Pipelines · Autonomous AI A
 
 ---
 
-### Featured Repositories
+### Organizations
 
 <p align="center">
-  <a href="https://github.com/mtalhazulf/University_Projects">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mtalhazulf&repo=University_Projects&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/mtalhazulf/interview-techdev-guide">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mtalhazulf&repo=interview-techdev-guide&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  </a>
+  <a href="https://github.com/obsidian-code-io"><img src="https://img.shields.io/badge/Obsidian%20Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/BuildAI-ERC"><img src="https://img.shields.io/badge/BuildAI-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/bouncy-square"><img src="https://img.shields.io/badge/Bouncy%20Square-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/lonesyteRepo"><img src="https://img.shields.io/badge/Lonesyte-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
